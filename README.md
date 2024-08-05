@@ -1,6 +1,6 @@
 # 🎥 YouTube Sentiment Analyzer 📊
 
-Una herramienta de análisis de sentimientos para comentarios de YouTube utilizando TextBlob y Transformers.
+Herramienta de análisis de sentimientos para comentarios de YouTube utilizando TextBlob y Transformers.
 
 ## 🌟 Características
 
