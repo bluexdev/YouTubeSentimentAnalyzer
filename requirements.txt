@@ -1,0 +1,7 @@
+google-api-python-client
+textblob
+matplotlib
+wordcloud
+transformers
+pandas
+tk
