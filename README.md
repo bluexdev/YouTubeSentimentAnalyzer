@@ -1,4 +1,4 @@
-# 🎥 Analizador de Sentimientos en YouTube 📊
+# 🎥 YouTube Sentiment Analyzer 📊
 
 Una herramienta de análisis de sentimientos para comentarios de YouTube utilizando TextBlob y Transformers.
 
