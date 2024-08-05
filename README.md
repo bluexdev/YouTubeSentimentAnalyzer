@@ -27,10 +27,7 @@ Una herramienta de análisis de sentimientos para comentarios de YouTube utiliza
    ```sh
    git clone https://github.com/bluexdev/YouTubeSentimentAnalyzer
    cd YouTubeSentimentAnalyzer
-Instala las dependencias:
-
-
-2. Clona el repositorio:
+2. Instala las dependencias:
    ```sh
    pip install -r requirements.txt
 
